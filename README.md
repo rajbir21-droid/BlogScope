@@ -31,7 +31,7 @@ For Front-End:
 ```
 ### Clone this repo :
 ```
-git clone https://github.com/rajbir21-droid/blogwebsite.git
+git clone https://github.com/rajbir21-droid/BlogScope.git
 ```
 ### How to install the above Library :
 
@@ -39,6 +39,7 @@ git clone https://github.com/rajbir21-droid/blogwebsite.git
 
 - For the back-end:-
   ```
+  cd server
   npm install
   ```
 - For the front-end:-
@@ -53,6 +54,7 @@ git clone https://github.com/rajbir21-droid/blogwebsite.git
 
 - For the back-end:
   ```
+  cd server
   npm start
   ```
 - For the front-end:
